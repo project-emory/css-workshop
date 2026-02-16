@@ -6,7 +6,7 @@ Starter code for the CSS & Styling Websites workshop.
 
 ### Practice 1: General Styling
 
-The goal of this project is to style `practice-1.html` to match the following design:
+The goal of this practice is to style `practice-1.html` to match the following design:
 
 ![Practice 1 Design](./practice-1-target.png)
 
@@ -20,6 +20,14 @@ The colors used are as follows:
 - Footer Divider: `#028090`
 
 And the font family is `'Segoe UI', Tahoma, Geneva, Verdana, sans-serif`. You can center the content by using `margin: 0 auto;` on the body element.
+
+### Practice 2: Everything Together
+
+This practice (located in `practice-2.html`) will cover (most) everything we've learned about CSS so far. Position and media queries not included, but feel free to experiment with those as well if you want! The goal is to style the page to match the following design:
+
+![Practice 2 Design](./practice-2-target.png)
+
+Colors and font family are the same as before. As a hint, the current HTML structure may not be enough to support the desired navbar behavior, but the solution is left up to you. (Hint: you can use nested flex boxes!)
 
 ---
 
