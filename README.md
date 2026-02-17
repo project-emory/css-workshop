@@ -2,6 +2,8 @@
 
 Starter code for the CSS & Styling Websites workshop.
 
+The workshop slides can be found [here](https://www.canva.com/design/DAHBfVPGslo/J2awbYHf-qIoYOnYgxd5Zw/view?utm_content=DAHBfVPGslo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1142ee22c6).
+
 ## Practice Guide
 
 ### Practice 1: General Styling
